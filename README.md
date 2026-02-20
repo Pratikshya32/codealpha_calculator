@@ -1,7 +1,7 @@
 <h1 align="center">🧮 Simple Calculator — HTML, CSS, JS</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Interactive+Calculator;Built+with+HTML+CSS+JS;By + Pratikshya + Sahoo" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Interactive+Calculator;Built+with+HTML+CSS+JS; By + Pratikshya + Sahoo" alt="Typing Animation" />
 </p>
 
 ---
@@ -92,4 +92,5 @@ This project is open-source and free to use for educational purposes.
 Attribution is appreciated 💙
 
 ---
+
 
